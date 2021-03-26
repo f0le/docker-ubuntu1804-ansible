@@ -4,6 +4,10 @@
 
 Ubuntu 18.04 LTS (Bionic) Docker container for Ansible playbook and role testing.
 
+## Changes in this fork
+
+Added an ansible user with sudo privileges. Simplifies testing ansible roles with molecule.
+
 ## Tags
 
   - `latest`: Latest stable version of Ansible.
